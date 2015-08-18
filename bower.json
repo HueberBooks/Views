@@ -1,0 +1,14 @@
+{
+    "name": "Hueber.Books.Views"
+    , "version": "1.0.0"
+    , "moduleType": "globals"
+	, "license": ""
+	, "keywords": ""
+	, "authors": [
+		  { "name": "Hueber", "email": "russland@hueber.de", "homepage": "http://www.hueber.de/" }
+		]
+	, "repository": {
+		  "type": "git",
+		  "url": "git://github.com/HueberBooks/Views.git"
+		}
+}
